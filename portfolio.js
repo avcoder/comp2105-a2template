@@ -26,7 +26,7 @@ export const portfolioJson = [
       "To generate web-based animated content and incorporate keyframes and animation paths using Adobe Animate",
     tech: [{ tool1: "https://google.ca" }],
     desc: "",
-    url: ""
+    url: "https://albertv.webflow.io"
   },
   {
     title: "animation paths",
@@ -47,7 +47,7 @@ export const portfolioJson = [
   {
     title: "Banner Ad",
     purpose:
-      "To incorporate timelines and employ scripting to control and animate sprite images",
+      "To incorporate timelines and employ scripting to animate sprite images",
     tech: [{ tool1: "https://google.ca" }],
     desc: "",
     url: ""
@@ -75,10 +75,7 @@ export const portfolioJson = [
     tech: [
       { google: "https://google.ca" },
       { georgian: "https://georgiancollege.ca" },
-      { codepen: "https://codepen.io" },
-      { google: "https://google.ca" },
-      { georgian: "https://georgiancollege.ca" },
-      { google: "https://google.ca" }
+      { codepen: "https://codepen.io" }
     ],
     desc:
       "Using the SVG Path builder, I created 2 svg paths and used the generated path coordinates which TweenMax used to animate. The result was a bending line similar to a wagging tail. ",
